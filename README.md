@@ -1,1 +1,3 @@
-# tp-git-java
+NOM : NGAKANOU TCHEUKO
+PRENOM : YAN CALVIN 
+AGE : 19 ans 
